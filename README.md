@@ -1,5 +1,3 @@
-# PRODIGY_ML_03
-
 # Cat and Dog Image Classification using HOG and SVM
 
 This project aims to classify images of cats and dogs using the Histogram of Oriented Gradients (HOG) feature descriptor and the Support Vector Machine (SVM) classifier.
